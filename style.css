@@ -273,7 +273,10 @@ html{
     background-color: #d3d3d3;
     padding: 20px;
     margin-bottom: 25px;
+    background: #000;
 }
+
+
 
 #servicios .fila .servicio hr{
     width: 30%;
@@ -451,7 +454,11 @@ html{
     padding: 10px;
     opacity: 0;
     bottom: -40px;
-    transition: .5s;
+    transition: .5s;    
+}
+
+#portfolio .fila .proyecto .info .a{
+    text-decoration: none;   
 }
 
 #portfolio .fila .proyecto:hover .info{
