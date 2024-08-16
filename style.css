@@ -353,7 +353,7 @@ html{
 
 .contenedor-skills .skill .barra .barra-progreso3{
     background: #fff;
-    width: 80%;
+    width: 100%;
     height: 6px;
     animation: progreso3 2s forwards;
 }
@@ -390,7 +390,7 @@ html{
         width: 0;
     }
     100%{
-        width: 80%;
+        width: 100%;
     }
 }
 
